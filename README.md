@@ -12,6 +12,7 @@
 - 👯 I’m open to collaborating on **Kubernetes, Docker, and cloud automation**  
 - 💬 Ask me about **AWS, Docker, Kubernetes, Java, Golang, Spring Boot**  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shubham-lamkhade-%E2%98%81%EF%B8%8F-4262b2190/)**  
+- 📧 Email: **sblamkhade9090@gmail.com**  
 - ⚡ Fun fact: *I love automating things and believe a good cup of coffee solves most problems!*
 
 ---
@@ -20,6 +21,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-lamkhade-%E2%98%81%EF%B8%8F-4262b2190/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sblamkhade9090@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
