@@ -13,11 +13,9 @@
   <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
   <h3 align="center">Cloud & DevOps Engineer | Automating Everything from Code to Cloud ☁️</h3>
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShubhamLamkhade" alt="ShubhamLamkhade's GitHub trophies" />
-    </a>
-  </p>
+  <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamLamkhade" alt="ShubhamLamkhade" /></a>
+</p>
 
   <p>
     🔭 Currently driving innovation with <strong>cloud-native architectures and DevOps automation</strong><br />
