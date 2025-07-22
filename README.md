@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
 <h3 align="center">Passionate Cloud Engineer & DevOps Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85ad6be4-eede-44ee-8d9f-e726ab74b0fd" alt="Shubham Lamkhade Profile Photo" style="border-radius: 50%; max-width: 200px;" />
-</p>
-
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamLamkhade" alt="ShubhamLamkhade" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamLamkhade" alt="ShubhamLamkhade" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **cloud-native and DevOps projects**  
