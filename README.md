@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path-to-your-uploaded-banner-image.png" alt="Shubham Lamkhade DevOps Banner" width="100%" />
+  <img src="https://github.com/ShubhamLamkhade/ShubhamLamkhade/blob/main/shubham.png" alt="Shubham Lamkhade DevOps Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
