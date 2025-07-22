@@ -1,23 +1,19 @@
-<p align="center">
-  <img src="" alt="Banner Image" style="max-height: 300px; width: 100%;" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
 <h3 align="center">Passionate Cloud Engineer & DevOps Enthusiast</h3>
 
-<p align="left">
-  <img src="![Image](https://github.com/user-attachments/assets/85ad6be4-eede-44ee-8d9f-e726ab74b0fd)" alt="ShubhamLamkhade" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85ad6be4-eede-44ee-8d9f-e726ab74b0fd" alt="Shubham Lamkhade Profile Photo" style="border-radius: 50%; max-width: 200px;" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamLamkhade" alt="ShubhamLamkhade" /></a>
 </p>
 
-- 🔭 I’m currently working on **cloud-native and DevOps projects**
-- 🌱 I’m learning and exploring **Terraform, Golang, and advanced AWS services**
-- 👯 I’m open to collaborating on **Kubernetes, Docker, and cloud automation**
-- 💬 Ask me about **AWS, Docker, Kubernetes, Java, Golang, Spring Boot**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shubham-lamkhade-%E2%98%81%EF%B8%8F-4262b2190/)**
+- 🔭 I’m currently working on **cloud-native and DevOps projects**  
+- 🌱 I’m learning and exploring **Terraform, Golang, and advanced AWS services**  
+- 👯 I’m open to collaborating on **Kubernetes, Docker, and cloud automation**  
+- 💬 Ask me about **AWS, Docker, Kubernetes, Java, Golang, Spring Boot**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shubham-lamkhade-%E2%98%81%EF%B8%8F-4262b2190/)**  
 - ⚡ Fun fact: *I love automating things and believe a good cup of coffee solves most problems!*
 
 ---
