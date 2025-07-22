@@ -7,7 +7,7 @@
 <body>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ShubhamLamkhade/ShubhamLamkhade/main/shubham.png" alt="Shubham Lamkhade DevOps Banner" style="width: 100%; max-width: 600px; height: 400px;" />
+    <img src="https://github.com/ShubhamLamkhade/ShubhamLamkhade/blob/main/shubham2.png" alt="Shubham Lamkhade DevOps Banner" style="width: 100%; max-width: 600px; height: 400px;" />
   </p>
 
   <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
