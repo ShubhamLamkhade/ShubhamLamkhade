@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="github-header-image (1).png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
+  <img src="" alt="Banner Image" style="max-height: 300px; width: 100%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Lamkhade</h1>
 <h3 align="center">Passionate Cloud Engineer & DevOps Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamLamkhade&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamLamkhade" />
+  <img src="![Image](https://github.com/user-attachments/assets/85ad6be4-eede-44ee-8d9f-e726ab74b0fd)" alt="ShubhamLamkhade" />
 </p>
 
 <p align="left">
